@@ -6,7 +6,4 @@
     <qresource prefix="/calendar/qml">
         <file>CalendarView.qml</file>
     </qresource>
-    <qresource prefix="/calendar/qml">
-        <file>CalendarEventItem.qml</file>
-    </qresource>
 </RCC>
